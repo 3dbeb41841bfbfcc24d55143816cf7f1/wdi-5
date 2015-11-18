@@ -8,6 +8,8 @@ Welcome to the fifth iteration of General Assembly's Web Development Immersive c
 
 ## Labs
 
+- [Week 2 - Tic Tac Toe](https://github.com/ATL-WDI-Exercises/tic-tac-toe)
+
 ## Homework
 
 ## Quizzes
